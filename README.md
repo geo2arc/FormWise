@@ -2,7 +2,7 @@
 
 A beautiful, minimalist, and intelligent Chrome extension that autofills web forms with one click using AI-powered data profiles.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/geo2arc/FormWise)
 
 ## ✨ Key Features
 
@@ -93,7 +93,7 @@ To deploy the worker component to Cloudflare:
 
 This command will build and deploy the worker defined in `worker/index.ts` to your Cloudflare account.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/geo2arc/FormWise)
 
 ## 🏛️ Architecture
 
